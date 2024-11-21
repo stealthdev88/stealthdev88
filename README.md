@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Happy Dev</h1>
-<h3 align="center">A Passionate Frontend Engineer</h3>
+<h3 align="center">A Passionate Full-Stack Engineer</h3>
 
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=happydev0126&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -10,7 +10,7 @@
 <img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
 
 ### 👤 About Me
-- **GitHub Username:** [happydev0126](https://github.com/happydev0126)  
+- **GitHub Username:** [happydev0126](https://github.com/stealthdev88)  
 - **💼 Profession:** Senior Frontend Engineer  
 - **🛠️ Skills:** JavaScript, TypeScript, React, Next.js, React, TypeScript, Next.js,tRPC, Prisma, JavaScript, Tailwind CSS, Supabase, SaaS, Responsive Design, Progressive Web App, styled-components, Performance Optimization, Svelte, Version control, Remix, UI/UX Prototyping  
 - **✨ Passion:** Creating responsive and user-friendly web applications  

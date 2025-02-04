@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Stealth Dev</h1>
-<h3 align="center">A Passionate Full-Stack Engineer</h3>
+<h3 align="center">A Passionate Back-End Engineer</h3>
 
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=happydev0126&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -11,8 +11,8 @@
 
 ### 👤 About Me
 - **GitHub Username:** [stealthdev88](https://github.com/stealthdev88)  
-- **💼 Profession:** Senior Full-Stack Engineer  
-- **🛠️ Skills:** JavaScript, TypeScript, React, Next.js, React, TypeScript, Next.js,tRPC, Prisma, JavaScript, Tailwind CSS, Supabase, SaaS, Responsive Design, Progressive Web App, styled-components, Performance Optimization, Svelte, Version control, Remix, UI/UX Prototyping  
+- **💼 Profession:** Senior Back-End Engineer  
+- **🛠️ Skills:** Java, SpringBoot, JPA, Mybatics, Hibernet, lombok, python, FastAPI, Django, Flask, Performance Optimization, Oracle, PostgreSQL, PHP, Laravel
 - **✨ Passion:** Creating responsive and user-friendly web applications  
 - **🤝 Open to:** Collaboration, mentorship, and new opportunities  
 - **🔭 Currently Working On:** [E-commerce Project](https://www.drybarshops.com)
